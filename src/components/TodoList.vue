@@ -52,8 +52,8 @@ export default {
 <style scoped>
 .todo-app {
   max-width: 1000px;
-  margin: 5rem auto;
-  padding: 8rem;
+  margin: 1rem auto;
+  padding: 5rem;
   background: #786767;
   box-shadow: 0 0 15px rgba(255, 252, 252, 0.1);
   border-radius: 30px;
